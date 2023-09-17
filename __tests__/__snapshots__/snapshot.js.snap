@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders homepage unchanged 1`] = `
+<div>
+  <section
+    class="text-white flex items-center justify-center px-5 lg:mt-16 w-full max-w-[1560px] mx-auto"
+  >
+    <div
+      class="flex items-center gap-x-20 justify-center"
+    >
+      <div
+        class="hidden lg:block"
+      >
+        <img
+          alt="tasse de thé infusion"
+          src="/assets/images/tea.svg"
+          srcset="/assets/images/tea.svg"
+        />
+      </div>
+      <div
+        class="flex flex-col gap-y-8 max-w-[656px]"
+      >
+        <h1
+          class="text-2xl text-center font-bold pt-10 lg:pt-10 lg:text-right lg:text-4xl xl:text-5xl"
+        >
+          SAUTEZ SUR L’OCCASION AVEC ThéTipTop
+        </h1>
+        <p
+          class=" text-center font-light leading-[29px] lg:text-right text-xl xl:text-2xl"
+        >
+          Pour l’ouverture de notre 10ème boutique, nous avons organisé un jeu concours où vous êtes 100% gagnant
+        </p>
+        <img
+          alt="tasse de thé infusion"
+          class="lg:hidden mx-auto"
+          data-nimg="1"
+          decoding="async"
+          height="373"
+          loading="lazy"
+          src="/assets/images/tasse.svg"
+          style="color: transparent;"
+          width="373"
+        />
+        <a
+          class="max-w-[350px] mx-auto bg-greenTip py-2 px-11 rounded-[100px] lg:self-end lg:mx-0 lg:mb-0"
+          href="/quizzes"
+        >
+          JOUER MAINTENANT
+        </a>
+      </div>
+    </div>
+  </section>
+</div>
+`;

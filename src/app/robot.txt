@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /private/
+
+Sitemap: https://dsp-archiwebo21a-nd-ah-ecs-aa.f/sitemap.xml
+

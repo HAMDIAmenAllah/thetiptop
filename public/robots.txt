@@ -1,0 +1,7 @@
+# Block all crawlers for /mentionsLegales
+User-agent: *
+Disallow: /mentionsLegales
+
+# Allow all crawlers
+User-agent: *
+Allow: /
